@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Guia 3 Listas</string>
+    <string name="vLista">Ver lista</string>
+    <string name="addNam">Agregar nombre</string>
+    <string name="info">Mis datos</string>
+    <string name="nombre">Cesar Alexander Peñate Solis</string>
+    <string name="codigo">PS15-I04-002</string>
+    <string name="tituloDatos">Mis Datos</string>
+    <string name="tituloLista">Lista de nombres</string>
+    <string name="msgRegistro">Ingrese el nombre</string>
+    <string name="hNombre">Nombre</string>
+    <string name="msgGuardar">Guardar</string>
+</resources>
